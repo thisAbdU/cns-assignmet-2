@@ -63,6 +63,10 @@ screenshots/*.png
 encryptedtext.txt
 decryptedtext.txt
 
+# RSA key files
+private_key.pem
+public_key.pem
+
 # Temporary files
 *.tmp
 *.temp
